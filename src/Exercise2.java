@@ -19,5 +19,6 @@ public class Exercise2 {
                 num = num / 10;
             }
         }
+        in.close();
     }
 }
