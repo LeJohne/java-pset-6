@@ -5,7 +5,6 @@ public class Exercise5 {
         Scanner in = new Scanner(System.in);
 
         int integer = 0;
-        boolean flag = false;
 
         do{
             System.out.print("Enter an integer: ");
